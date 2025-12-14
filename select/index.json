@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "星屑サラウンド",
+  "base_artist": "Losstime Life",
+  "createdAt": "2025-12-14T18:18:42.031531Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "星屑サラウンド",
+      "artist": "Losstime Life",
+      "has_synced": true,
+      "path": "select/01_星屑サラウンド_Losstime_Life.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星屑サラウンド",
+      "artist": "Losstime Life",
+      "has_synced": false,
+      "path": "select/pl_01_星屑サラウンド_Losstime_Life.txt"
+    }
+  ]
+}
